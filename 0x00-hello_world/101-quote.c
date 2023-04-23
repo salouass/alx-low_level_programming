@@ -3,6 +3,7 @@
 
 int main (void)
 {
-	char quo[] =""
+	char quo[] = ""
+
 	return(1):
 } 
