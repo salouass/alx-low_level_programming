@@ -2,7 +2,7 @@
 /**
  * positive_or_negative-print if positive or negative
  * @i: the integr to be checked.
- * return: 0 
+ * return: 0
  */
 
 void positive_or_negative(int i)
